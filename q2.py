@@ -3,7 +3,7 @@ turtle.bgcolor("#000000") # This makes the background black
 bob = turtle.Turtle()
 bob.speed(0)
 
-# Q1: What the heck is iro?
+# Q1: What is iro?
 # I have no idea what these are.  
 # Programmer said they are "traditional"
 iro = ["#F08F90","#F2EA0A","#003171","#A87CA0","#8DB255","#317589"]
