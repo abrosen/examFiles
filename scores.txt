@@ -1,0 +1,9 @@
+Kamek 57
+Toad 12
+Peach 82
+Mario 97
+Luigi 80
+Bowser 5
+Yoshi 70
+Cappy 92
+Goomba 2
